@@ -1,5 +1,9 @@
 2 etao change
 again writing some name ,and practice the branch
 
+<<<<<<< HEAD
 
 this is Main branch....
+=======
+this is main branch bro
+>>>>>>> newDiv
